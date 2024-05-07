@@ -15,7 +15,17 @@ Odrediti prosječne ocjene iz navedenih predmeta. - Rješenje: Iz raw podataka n
 Odrediti broj klasa i same klase za decision tree model - Rješenje: Visoka, srednja i niska klasa; 8 plus ECTS kredita, od 6-8, do 6 ECTS kredita, respektivno
 Ili napraviti da output bude samo broj ECTS kredita, ne da bude klasa.
 
+<hr>
 
+Predmeti po kodovima:
+
+P-175 Programiranje I
+P-176 Programiranje II
+P-177 Programiranje III
+P-150 Razvoj softvera I
+P-157 Razvoj softvera II
+
+Matematike i ai ml
 
 Decision trees logika:
 

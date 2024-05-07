@@ -1,0 +1,492 @@
+studentId,Predmet,BrojKredita,Ocjena,PolozioDatum,Godina,SkolskaGodina,Semestar,Priznat,datum_upisa,Spol,ZavrsenaSkolaId,Srednja_skola,opstina_rodjenja,GodinaZavrsetka,datum_diplomiranja,nacin_studiranja,opstina_prebivalista
+16574,P-175,7,6,1. listopada 2019.,1,2020/2021,1,True,7. studenog 2018.,M,2,Elektrotehnièka,Jablanica,2013/2014,,DL,Mostar
+16574,P-176,7,6,1. listopada 2019.,1,2020/2021,2,True,7. studenog 2018.,M,2,Elektrotehnièka,Jablanica,2013/2014,,DL,Mostar
+16413,P-177,7,8,4. rujna 2020.,2,2019/2020,3,False,18. srpnja 2018.,,1,Gimnazija,Gornji Vakuf,2014/15,,DL,Gornji Vakuf - Uskoplje
+16574,P-177,7,8,15. rujna 2022.,2,2020/2021,3,False,7. studenog 2018.,M,2,Elektrotehnièka,Jablanica,2013/2014,,DL,Mostar
+16503,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,21. srpnja 2018.,M,1,Gimnazija,Banja Luka,1999/2000,,DL,Sarajevo - Novi grad
+16574,P-150,7,8,28. oujka 2023.,3,2021/2022,5,False,7. studenog 2018.,M,2,Elektrotehnièka,Jablanica,2013/2014,,DL,Mostar
+16503,P-150,7,10,21. veljaèe 2023.,3,2020/2021,5,False,21. srpnja 2018.,M,1,Gimnazija,Banja Luka,1999/2000,,DL,Sarajevo - Novi grad
+16414,P-177,7,7,1. rujna 2022.,2,2019/2020,3,False,19. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2014/15,,DL,Sarajevo
+16401,P-177,7,6,18. veljaèe 2021.,2,2019/2020,3,False,19. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2015/16,,DL,Mostar
+16408,P-177,7,6,17. veljaèe 2022.,2,2019/2020,3,False,19. srpnja 2018.,,1,Gimnazija,Sanski Most,2016/2017,,DL,Sanski Most
+16409,P-177,7,6,11. sijeènja 2023.,2,2019/2020,3,False,19. srpnja 2018.,M,3,Mainska,Tuzla,2014/15,,DL,Lukavac
+16401,P-150,7,9,31. listopada 2022.,3,2020/2021,5,False,19. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2015/16,,DL,Mostar
+16401,P-157,7,7,20. veljaèe 2023.,3,2020/2021,6,False,19. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2015/16,,DL,Mostar
+16343,P-177,7,7,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,18,Medresa,Gradaèac,2017/18,,DL,Gradaèac
+16391,P-177,7,6,18. veljaèe 2021.,2,2019/2020,3,False,19. srpnja 2018.,M,2,Elektrotehnièka,Bugojno,2017/18,,DL,Bugojno
+16369,P-177,7,9,1. prosinca 2021.,2,2019/2020,3,False,4. rujna 2018.,M,25,Turistièko ugostiteljska,Pale,2017/18,,DL,Pale
+16448,P-177,7,8,4. rujna 2020.,2,2019/2020,3,False,24. kolovoza 2018.,M,13,Tehnièka,Brèko,2017/18,,Redovan samofinansirajuæi,Brèko
+16420,P-177,7,7,14. rujna 2021.,2,2019/2020,3,False,5. rujna 2018.,,2,Elektrotehnièka,Tuzla,2017/18,,DL,Tuzla
+16388,P-177,7,7,21. sijeènja 2020.,2,2019/2020,3,False,19. srpnja 2018.,M,2,Elektrotehnièka,Zenica,2017/18,,Redovan samofinansirajuæi,Zavidoviæi
+16471,P-177,7,7,18. veljaèe 2020.,2,2019/2020,3,False,23. kolovoza 2018.,M,18,Medresa,Bihaæ,2017/18,,Redovan samofinansirajuæi,Bihaæ
+16388,P-150,7,8,8. srpnja 2021.,3,2020/2021,5,False,19. srpnja 2018.,M,2,Elektrotehnièka,Zenica,2017/18,,Redovan samofinansirajuæi,Zavidoviæi
+16509,P-177,7,7,21. sijeènja 2020.,2,2019/2020,3,False,20. srpnja 2018.,M,1,Gimnazija,Bugojno,2017/18,,Redovan samofinansirajuæi,Jajce
+16433,P-177,7,7,2. studenog 2022.,2,2019/2020,3,False,24. kolovoza 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Sarajevo-Stari grad
+16375,P-177,7,7,18. veljaèe 2020.,2,2019/2020,3,False,4. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16490,P-177,7,8,20. veljaèe 2023.,2,2020/2021,3,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,Vanredan,Sarajevo - Novi grad
+16502,P-177,7,6,6. srpnja 2023.,2,2019/2020,3,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Breza
+16509,P-150,7,6,10. rujna 2020.,3,2019/2020,5,True,20. srpnja 2018.,M,1,Gimnazija,Bugojno,2017/18,,Redovan samofinansirajuæi,Jajce
+16375,P-150,7,9,1. studenog 2021.,3,2020/2021,5,False,4. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16423,P-177,7,6,28. sijeènja 2021.,2,2019/2020,3,False,19. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,Redovan samofinansirajuæi,Mostar
+16382,P-177,7,6,17. veljaèe 2022.,2,2019/2020,3,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Vogoæa
+16363,P-177,7,6,18. veljaèe 2021.,2,2019/2020,3,False,19. srpnja 2018.,M,1,Gimnazija,Ilida,2017/18,,DL,Ilida
+16396,P-177,7,7,21. sijeènja 2020.,2,2019/2020,3,False,19. srpnja 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16396,P-150,7,9,1. studenog 2021.,3,2020/2021,5,False,19. srpnja 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16423,P-150,7,8,24. veljaèe 2022.,3,2020/2021,5,False,19. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,Redovan samofinansirajuæi,Mostar
+16423,P-157,7,7,21. rujna 2023.,3,2020/2021,6,False,19. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,Redovan samofinansirajuæi,Mostar
+16511,P-176,7,6,15. rujna 2020.,1,2018/2019,2,False,24. rujna 2018.,M,2,Elektrotehnièka,Bugojno,2013/14,,DL,Bugojno
+16508,P-176,7,6,17. rujna 2021.,1,2018/2019,2,True,21. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo-Stari grad,2016/17,,Redovan samofinansirajuæi,Sarajevo-Stari grad
+16503,P-176,7,6,4. rujna 2019.,1,2018/2019,2,False,21. srpnja 2018.,M,1,Gimnazija,Banja Luka,1999/2000,,DL,Sarajevo - Novi grad
+16489,P-176,7,8,15. rujna 2020.,1,2018/2019,2,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2014/2015,,DL,Sarajevo - Novi grad
+16453,P-176,7,7,16. srpnja 2021.,1,2018/2019,2,False,23. kolovoza 2018.,M,13,Tehnièka,Gorade,2015/2016,,Vanredan,Gorade
+16414,P-176,7,6,25. lipnja 2021.,1,2018/2019,2,False,19. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2014/15,,DL,Sarajevo
+16413,P-176,7,9,24. lipnja 2020.,1,2018/2019,2,False,18. srpnja 2018.,,1,Gimnazija,Gornji Vakuf,2014/15,,DL,Gornji Vakuf - Uskoplje
+16408,P-176,7,7,15. rujna 2020.,1,2018/2019,2,False,19. srpnja 2018.,,1,Gimnazija,Sanski Most,2016/2017,,DL,Sanski Most
+16409,P-176,7,9,9. rujna 2021.,1,2018/2019,2,False,19. srpnja 2018.,M,3,Mainska,Tuzla,2014/15,,DL,Lukavac
+16401,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2015/16,,DL,Mostar
+16406,P-175,7,6,25. veljaèe 2023.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sanski Most,2016/2017,,Vanredan,Sanski Most
+16453,P-175,7,8,8. rujna 2020.,1,2018/2019,1,False,23. kolovoza 2018.,M,13,Tehnièka,Gorade,2015/2016,,Vanredan,Gorade
+16508,P-175,7,9,9. veljaèe 2019.,1,2018/2019,1,False,21. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo-Stari grad,2016/17,,Redovan samofinansirajuæi,Sarajevo-Stari grad
+16401,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2015/16,,DL,Mostar
+16409,P-175,7,8,7. rujna 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,3,Mainska,Tuzla,2014/15,,DL,Lukavac
+16408,P-175,7,9,24. kolovoza 2019.,1,2018/2019,1,False,19. srpnja 2018.,,1,Gimnazija,Sanski Most,2016/2017,,DL,Sanski Most
+16413,P-175,7,7,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,,1,Gimnazija,Gornji Vakuf,2014/15,,DL,Gornji Vakuf - Uskoplje
+16414,P-175,7,8,24. kolovoza 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2014/15,,DL,Sarajevo
+16435,P-175,7,7,9. veljaèe 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2014/15,,DL,Mostar
+16438,P-175,7,9,9. veljaèe 2019.,1,2018/2019,1,False,24. kolovoza 2018.,M,10,Katolièki kolski centar,Split,2013/14,,DL,Sarajevo-Stari grad
+16443,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,24. kolovoza 2018.,M,1,Gimnazija,Gradaèac,2011/12,,DL,Graèanica
+16462,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,23. kolovoza 2018.,M,6,Ekonomska,Ljubovija,2001/2002,,DL,Sarajevo
+16473,P-175,7,6,15. veljaèe 2020.,1,2018/2019,1,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo-Novo Sarajevo,2015/2016,,DL,Sarajevo-Novo Sarajevo
+16489,P-175,7,10,24. kolovoza 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2014/2015,,DL,Sarajevo - Novi grad
+16503,P-175,7,7,26. sijeènja 2019.,1,2018/2019,1,False,21. srpnja 2018.,M,1,Gimnazija,Banja Luka,1999/2000,,DL,Sarajevo - Novi grad
+16578,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,8. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2012/2013,,DL,Sarajevo - Centar
+16585,P-175,7,7,15. veljaèe 2020.,1,2018/2019,1,False,14. studenog 2018.,M,18,Medresa,Zvornik,2008/2009,,DL,Zvornik
+16511,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,24. rujna 2018.,M,2,Elektrotehnièka,Bugojno,2013/14,,DL,Bugojno
+16528,P-175,7,6,16. rujna 2021.,1,2018/2019,1,False,25. rujna 2018.,M,8,Saobraæajna,Sarajevo - Centar,2014/2015,,DL,Ilida
+16471,P-176,7,6,4. srpnja 2019.,1,2018/2019,2,False,23. kolovoza 2018.,M,18,Medresa,Bihaæ,2017/18,,Redovan samofinansirajuæi,Bihaæ
+16467,P-176,7,8,23. rujna 2021.,1,2018/2019,2,False,23. kolovoza 2018.,M,2,Elektrotehnièka,Bihaæ,2017/18,,DL,Bihaæ
+16448,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,24. kolovoza 2018.,M,13,Tehnièka,Brèko,2017/18,,Redovan samofinansirajuæi,Brèko
+16420,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,5. rujna 2018.,,2,Elektrotehnièka,Tuzla,2017/18,,DL,Tuzla
+16400,P-176,7,6,9. rujna 2021.,1,2018/2019,2,False,19. srpnja 2018.,,6,Ekonomska,Sarajevo - Novi grad,2017/18,,DL,Sarajevo
+16391,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,2,Elektrotehnièka,Bugojno,2017/18,,DL,Bugojno
+16388,P-176,7,8,4. rujna 2019.,1,2018/2019,2,False,19. srpnja 2018.,M,2,Elektrotehnièka,Zenica,2017/18,,Redovan samofinansirajuæi,Zavidoviæi
+16369,P-176,7,6,4. srpnja 2019.,1,2018/2019,2,False,4. rujna 2018.,M,25,Turistièko ugostiteljska,Pale,2017/18,,DL,Pale
+16343,P-176,7,8,4. srpnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,18,Medresa,Gradaèac,2017/18,,DL,Gradaèac
+16343,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,18,Medresa,Gradaèac,2017/18,,DL,Gradaèac
+16350,P-175,7,7,7. rujna 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,18,Medresa,Tuzla,2017/18,,DL,Tuzla
+16366,P-175,7,6,8. rujna 2020.,1,2018/2019,1,False,19. srpnja 2018.,M,3,Mainska,Gorade,2017/18,,Vanredan,Gorade
+16369,P-175,7,7,26. sijeènja 2019.,1,2018/2019,1,False,4. rujna 2018.,M,25,Turistièko ugostiteljska,Pale,2017/18,,DL,Pale
+16388,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,2,Elektrotehnièka,Zenica,2017/18,,Redovan samofinansirajuæi,Zavidoviæi
+16391,P-175,7,9,29. lipnja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,2,Elektrotehnièka,Bugojno,2017/18,,DL,Bugojno
+16400,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,19. srpnja 2018.,,6,Ekonomska,Sarajevo - Novi grad,2017/18,,DL,Sarajevo
+16416,P-175,7,7,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo-Novo Sarajevo,2017/18,,Vanredan,Sarajevo
+16420,P-175,7,10,9. veljaèe 2019.,1,2018/2019,1,False,5. rujna 2018.,,2,Elektrotehnièka,Tuzla,2017/18,,DL,Tuzla
+16448,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,24. kolovoza 2018.,M,13,Tehnièka,Brèko,2017/18,,Redovan samofinansirajuæi,Brèko
+16467,P-175,7,6,26. sijeènja 2019.,1,2018/2019,1,False,23. kolovoza 2018.,M,2,Elektrotehnièka,Bihaæ,2017/18,,DL,Bihaæ
+16471,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,23. kolovoza 2018.,M,18,Medresa,Bihaæ,2017/18,,Redovan samofinansirajuæi,Bihaæ
+16375,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,4. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16433,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,24. kolovoza 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Sarajevo-Stari grad
+16451,P-175,7,6,20. veljaèe 2021.,1,2018/2019,1,False,23. kolovoza 2018.,M,1,Gimnazija,Zagreb,2017/18,,DL,Gorade
+16464,P-175,7,6,26. sijeènja 2019.,1,2018/2019,1,False,23. kolovoza 2018.,M,1,Gimnazija,Sarajevo-Stari grad,2017/18,,DL,Sarajevo-Stari grad
+16468,P-175,7,10,9. veljaèe 2019.,1,2018/2019,1,False,23. kolovoza 2018.,M,1,Gimnazija,Bihaæ,2017/18,,Vanredan,Bihaæ
+16482,P-175,7,6,25. sijeènja 2020.,1,2018/2019,1,False,21. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,DL,Mostar
+16490,P-175,7,7,15. veljaèe 2020.,1,2018/2019,1,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,Vanredan,Sarajevo - Novi grad
+16498,P-175,7,7,25. kolovoza 2020.,1,2018/2019,1,False,21. srpnja 2018.,M,1,Gimnazija,Vogoæa,2017/18,,DL,Vogoæa
+16502,P-175,7,6,24. kolovoza 2019.,1,2018/2019,1,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Breza
+16509,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,1,Gimnazija,Bugojno,2017/18,,Redovan samofinansirajuæi,Jajce
+16509,P-176,7,6,20. lipnja 2019.,1,2018/2019,2,False,20. srpnja 2018.,M,1,Gimnazija,Bugojno,2017/18,,Redovan samofinansirajuæi,Jajce
+16502,P-176,7,6,16. srpnja 2021.,1,2018/2019,2,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Breza
+16490,P-176,7,7,16. srpnja 2021.,1,2018/2019,2,False,21. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,Vanredan,Sarajevo - Novi grad
+16482,P-176,7,8,9. rujna 2021.,1,2018/2019,2,False,21. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,DL,Mostar
+16464,P-176,7,9,3. listopada 2019.,1,2018/2019,2,False,23. kolovoza 2018.,M,1,Gimnazija,Sarajevo-Stari grad,2017/18,,DL,Sarajevo-Stari grad
+16433,P-176,7,7,16. srpnja 2021.,1,2018/2019,2,False,24. kolovoza 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Sarajevo-Stari grad
+16375,P-176,7,6,20. lipnja 2019.,1,2018/2019,2,False,4. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16359,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sanski Most,2017/18,,Redovan samofinansirajuæi,Sanski Most
+16363,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Ilida,2017/18,,DL,Ilida
+16382,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Vogoæa
+16396,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16407,P-175,7,7,2. rujna 2021.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sanski Most,2017/18,,Vanredan,Sanski Most
+16418,P-175,7,6,2. rujna 2021.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Sarajevo - Novi grad
+16423,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,19. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,Redovan samofinansirajuæi,Mostar
+16423,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,19. srpnja 2018.,,1,Gimnazija,Mostar,2017/18,,Redovan samofinansirajuæi,Mostar
+16396,P-176,7,7,4. srpnja 2019.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Zenica,2017/18,,DL,Kakanj
+16382,P-176,7,6,15. rujna 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/18,,DL,Vogoæa
+16363,P-176,7,6,31. kolovoza 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Ilida,2017/18,,DL,Ilida
+16359,P-176,7,6,31. kolovoza 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Sanski Most,2017/18,,Redovan samofinansirajuæi,Sanski Most
+17594,P-157,6,10,1. listopada 2018.,3,2018/2019,6,True,20. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/2009,,DL,Sarajevo-Novo Sarajevo
+17599,P-157,6,7,1. listopada 2018.,3,2018/2019,6,True,23. studenog 2018.,M,23,Mjeovita srednja kola,Fojnica,1994/95,,DL,Ilida
+16572,P-175,7,8,1. listopada 2018.,1,2018/2019,1,True,7. studenog 2018.,M,1,Gimnazija,Bihaæ,2010/2011,,DL,Sarajevo - Centar
+16570,P-175,7,9,1. listopada 2018.,1,2018/2019,1,True,7. studenog 2018.,M,13,Tehnièka,Banoviæi,2008/09,,DL,Mostar
+16575,P-175,7,6,1. listopada 2018.,1,2018/2019,1,True,7. studenog 2018.,M,1,Gimnazija,Graèanica,2014/15,,DL,Doboj
+16583,P-175,7,10,1. listopada 2018.,1,2018/2019,1,True,9. studenog 2018.,M,13,Tehnièka,Bugojno,2012/13,,DL,Gornji Vakuf - Uskoplje
+16582,P-175,7,6,1. listopada 2018.,1,2018/2019,1,True,9. studenog 2018.,M,3,Mainska,Doboj,2002/03,,DL,Sarajevo-Novo Sarajevo
+16587,P-175,7,6,1. listopada 2018.,1,2018/2019,1,True,14. studenog 2018.,M,23,Mjeovita srednja kola,Sarajevo - Centar,1999/2000,,DL,Sarajevo - Centar
+16586,P-175,7,8,1. listopada 2018.,1,2018/2019,1,True,14. studenog 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2000/2001,,DL,Sarajevo-Novo Sarajevo
+17589,P-175,7,6,1. listopada 2018.,1,2018/2019,1,True,19. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2008/09,,DL,Sarajevo-Novo Sarajevo
+16589,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,16. studenog 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2011/2012,,DL,Sarajevo - Novi grad
+17599,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,23. studenog 2018.,M,23,Mjeovita srednja kola,Fojnica,1994/95,,DL,Ilida
+17597,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,23. studenog 2018.,M,1,Gimnazija,Bihaæ,2003/2004,,DL,Mostar
+17593,P-175,7,10,1. listopada 2018.,1,2018/2019,1,True,19. studenog 2018.,M,2,Elektrotehnièka,Bihaæ,2011/12,,DL,Bihaæ
+17591,P-175,7,8,1. listopada 2018.,1,2018/2019,1,True,19. studenog 2018.,M,1,Gimnazija,Tuzla,2007/08,,DL,Srebrenik
+17591,P-176,7,7,1. listopada 2018.,1,2018/2019,2,True,19. studenog 2018.,M,1,Gimnazija,Tuzla,2007/08,,DL,Srebrenik
+17593,P-176,7,7,1. listopada 2018.,1,2018/2019,2,True,19. studenog 2018.,M,2,Elektrotehnièka,Bihaæ,2011/12,,DL,Bihaæ
+17597,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,23. studenog 2018.,M,1,Gimnazija,Bihaæ,2003/2004,,DL,Mostar
+17599,P-176,7,7,1. listopada 2018.,1,2018/2019,2,True,23. studenog 2018.,M,23,Mjeovita srednja kola,Fojnica,1994/95,,DL,Ilida
+16591,P-176,7,7,1. listopada 2018.,1,2018/2019,2,True,16. studenog 2018.,M,1,Gimnazija,Bihaæ,2011/2012,,DL,Bosanska Krupa
+16586,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,14. studenog 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2000/2001,,DL,Sarajevo-Novo Sarajevo
+16582,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,9. studenog 2018.,M,3,Mainska,Doboj,2002/03,,DL,Sarajevo-Novo Sarajevo
+16584,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,9. studenog 2018.,M,13,Tehnièka,Zenica,2010/11,,DL,Zenica
+16583,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,9. studenog 2018.,M,13,Tehnièka,Bugojno,2012/13,,DL,Gornji Vakuf - Uskoplje
+16570,P-176,7,8,1. listopada 2018.,1,2018/2019,2,True,7. studenog 2018.,M,13,Tehnièka,Banoviæi,2008/09,,DL,Mostar
+16572,P-176,7,10,1. listopada 2018.,1,2018/2019,2,True,7. studenog 2018.,M,1,Gimnazija,Bihaæ,2010/2011,,DL,Sarajevo - Centar
+16570,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,7. studenog 2018.,M,13,Tehnièka,Banoviæi,2008/09,,DL,Mostar
+16572,P-177,7,7,1. listopada 2018.,2,2018/2019,3,True,7. studenog 2018.,M,1,Gimnazija,Bihaæ,2010/2011,,DL,Sarajevo - Centar
+16586,P-177,7,8,1. listopada 2018.,2,2018/2019,3,True,14. studenog 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2000/2001,,DL,Sarajevo-Novo Sarajevo
+16591,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,16. studenog 2018.,M,1,Gimnazija,Bihaæ,2011/2012,,DL,Bosanska Krupa
+16582,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,9. studenog 2018.,M,3,Mainska,Doboj,2002/03,,DL,Sarajevo-Novo Sarajevo
+16583,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,9. studenog 2018.,M,13,Tehnièka,Bugojno,2012/13,,DL,Gornji Vakuf - Uskoplje
+16584,P-177,7,8,1. listopada 2018.,2,2018/2019,3,True,9. studenog 2018.,M,13,Tehnièka,Zenica,2010/11,,DL,Zenica
+17591,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,19. studenog 2018.,M,1,Gimnazija,Tuzla,2007/08,,DL,Srebrenik
+17593,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,19. studenog 2018.,M,2,Elektrotehnièka,Bihaæ,2011/12,,DL,Bihaæ
+17597,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,23. studenog 2018.,M,1,Gimnazija,Bihaæ,2003/2004,,DL,Mostar
+17599,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,23. studenog 2018.,M,23,Mjeovita srednja kola,Fojnica,1994/95,,DL,Ilida
+17599,P-150,7,9,1. listopada 2018.,3,2018/2019,5,True,23. studenog 2018.,M,23,Mjeovita srednja kola,Fojnica,1994/95,,DL,Ilida
+17593,P-150,7,8,1. listopada 2018.,3,2018/2019,5,True,19. studenog 2018.,M,2,Elektrotehnièka,Bihaæ,2011/12,,DL,Bihaæ
+16583,P-150,7,8,1. listopada 2018.,3,2018/2019,5,True,9. studenog 2018.,M,13,Tehnièka,Bugojno,2012/13,,DL,Gornji Vakuf - Uskoplje
+16573,P-175,7,6,1. listopada 2018.,1,2018/2019,1,True,7. studenog 2018.,,1,Gimnazija,Mostar,2010/2011,,DL,Bugojno
+16576,P-175,7,10,1. listopada 2018.,1,2018/2019,1,True,7. studenog 2018.,M,1,Gimnazija,Mostar,2006/2007,,DL,Mostar
+16581,P-175,7,6,1. listopada 2018.,1,2018/2019,1,True,9. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/09,,DL,Mostar
+16580,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,9. studenog 2018.,M,2,Elektrotehnièka,Mostar,2012/13,,DL,Mostar
+17594,P-175,7,10,1. listopada 2018.,1,2018/2019,1,True,20. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/2009,,DL,Sarajevo-Novo Sarajevo
+17594,P-176,7,10,1. listopada 2018.,1,2018/2019,2,True,20. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/2009,,DL,Sarajevo-Novo Sarajevo
+16580,P-176,7,8,1. listopada 2018.,1,2018/2019,2,True,9. studenog 2018.,M,2,Elektrotehnièka,Mostar,2012/13,,DL,Mostar
+16581,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,9. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/09,,DL,Mostar
+16576,P-176,7,10,1. listopada 2018.,1,2018/2019,2,True,7. studenog 2018.,M,1,Gimnazija,Mostar,2006/2007,,DL,Mostar
+16573,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,7. studenog 2018.,,1,Gimnazija,Mostar,2010/2011,,DL,Bugojno
+16573,P-177,7,7,1. listopada 2018.,2,2018/2019,3,True,7. studenog 2018.,,1,Gimnazija,Mostar,2010/2011,,DL,Bugojno
+16576,P-177,7,8,1. listopada 2018.,2,2018/2019,3,True,7. studenog 2018.,M,1,Gimnazija,Mostar,2006/2007,,DL,Mostar
+16581,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,9. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/09,,DL,Mostar
+17594,P-177,7,10,1. listopada 2018.,2,2018/2019,3,True,20. studenog 2018.,M,2,Elektrotehnièka,Mostar,2008/2009,,DL,Sarajevo-Novo Sarajevo
+16573,P-150,7,9,1. listopada 2018.,3,2018/2019,5,True,7. studenog 2018.,,1,Gimnazija,Mostar,2010/2011,,DL,Bugojno
+16322,P-177,7,6,28. sijeènja 2021.,2,2019/2020,3,False,17. srpnja 2018.,M,3,Mainska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16533,P-177,7,9,8. rujna 2021.,2,2019/2020,3,True,4. listopada 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,Gradaèac
+16496,P-177,7,7,18. veljaèe 2021.,2,2019/2020,3,False,21. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Stari grad
+16384,P-177,7,7,18. veljaèe 2020.,2,2019/2020,3,False,19. srpnja 2018.,M,2,Elektrotehnièka,Tuzla,2017/2018,,Redovan samofinansirajuæi,Tuzla
+16403,P-177,7,7,4. rujna 2020.,2,2019/2020,3,False,19. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,Redovan samofinansirajuæi,Kalesija
+16403,P-150,7,9,8. srpnja 2021.,3,2020/2021,5,False,19. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,Redovan samofinansirajuæi,Kalesija
+16384,P-150,7,8,17. rujna 2021.,3,2020/2021,5,False,19. srpnja 2018.,M,2,Elektrotehnièka,Tuzla,2017/2018,,Redovan samofinansirajuæi,Tuzla
+16384,P-157,7,8,7. prosinca 2022.,3,2020/2021,6,False,19. srpnja 2018.,M,2,Elektrotehnièka,Tuzla,2017/2018,,Redovan samofinansirajuæi,Tuzla
+16431,P-177,7,6,14. rujna 2021.,2,2020/2021,3,False,20. srpnja 2018.,M,18,Medresa,Zenica,2017/2018,,DL,Zenica
+16483,P-177,7,6,27. sijeènja 2022.,2,2019/2020,3,False,20. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Fojnica
+16442,P-177,7,7,14. rujna 2021.,2,2019/2020,3,False,20. srpnja 2018.,M,23,Mjeovita srednja kola,Bihaæ,2017/2018,,DL,Bosanska Krupa
+16450,P-177,7,6,27. sijeènja 2022.,2,2019/2020,3,False,20. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2017/2018,,DL,Gorade
+16440,P-177,7,9,18. veljaèe 2021.,2,2019/2020,3,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Novi grad
+16444,P-177,7,6,27. sijeènja 2022.,2,2019/2020,3,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Centar
+16483,P-150,7,9,12. rujna 2023.,3,2021/2022,5,False,20. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Fojnica
+16450,P-150,7,10,21. veljaèe 2023.,3,2021/2022,5,False,20. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2017/2018,,DL,Gorade
+16510,P-177,7,9,21. sijeènja 2020.,2,2019/2020,3,False,24. rujna 2018.,,1,Gimnazija,Kakanj,2017/2018,,Redovan samofinansirajuæi,Kakanj
+16517,P-177,7,6,15. rujna 2022.,2,2019/2020,3,False,25. rujna 2018.,,1,Gimnazija,Konjic,2017/2018,,DL,Konjic
+16469,P-177,7,9,27. oujka 2023.,2,2020/2021,3,False,20. srpnja 2018.,,1,Gimnazija,Bihaæ,2017/2018,,DL,Bosanska Krupa
+16389,P-177,7,9,8. srpnja 2022.,2,2019/2020,3,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Centar
+16439,P-177,7,6,18. veljaèe 2020.,2,2019/2020,3,False,20. srpnja 2018.,M,1,Gimnazija,Velika Kladua,2017/2018,,Redovan samofinansirajuæi,Sanski Most
+16324,P-177,7,6,7. sijeènja 2022.,2,2019/2020,3,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16387,P-177,7,9,30. studenog 2022.,2,2019/2020,3,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16501,P-177,7,8,7. sijeènja 2022.,2,2019/2020,3,False,21. srpnja 2018.,,1,Gimnazija,Travnik,2017/2018,,Redovan samofinansirajuæi,Jajce
+16424,P-177,7,7,18. veljaèe 2021.,2,2019/2020,3,False,20. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Visoko
+16386,P-177,7,7,15. rujna 2022.,2,2020/2021,3,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo-Novo Sarajevo,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16326,P-150,7,8,15. rujna 2022.,3,2020/2021,5,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16324,P-150,7,7,29. kolovoza 2023.,3,2020/2021,5,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16501,P-150,7,9,29. kolovoza 2023.,3,2020/2021,5,False,21. srpnja 2018.,,1,Gimnazija,Travnik,2017/2018,,Redovan samofinansirajuæi,Jajce
+16510,P-150,7,9,25. veljaèe 2021.,3,2020/2021,5,False,24. rujna 2018.,,1,Gimnazija,Kakanj,2017/2018,,Redovan samofinansirajuæi,Kakanj
+16463,P-150,7,7,21. veljaèe 2023.,3,2021/2022,5,False,20. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Èapljina
+16510,P-157,7,8,24. rujna 2021.,3,2020/2021,6,False,24. rujna 2018.,,1,Gimnazija,Kakanj,2017/2018,,Redovan samofinansirajuæi,Kakanj
+16334,P-177,7,8,31. kolovoza 2021.,2,2020/2021,3,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Jablanica
+16371,P-150,7,9,25. veljaèe 2021.,3,2020/2021,5,False,18. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,,Redovan samofinansirajuæi,Zavidoviæi
+16348,P-150,7,8,3. veljaèe 2022.,3,2020/2021,5,False,18. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Gornji Vakuf - Uskoplje
+16349,P-150,7,8,3. veljaèe 2022.,3,2020/2021,5,False,18. srpnja 2018.,M,13,Tehnièka,Bugojno,2017/2018,,DL,Bugojno
+16335,P-150,7,9,24. veljaèe 2022.,3,2020/2021,5,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16365,P-150,7,10,3. veljaèe 2022.,3,2020/2021,5,False,18. srpnja 2018.,,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16374,P-150,7,9,31. sijeènja 2023.,3,2020/2021,5,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16379,P-150,7,8,3. veljaèe 2022.,3,2020/2021,5,False,18. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Visoko
+16339,P-150,7,8,29. oujka 2022.,3,2020/2021,5,False,18. srpnja 2018.,,2,Elektrotehnièka,Visoko,2017/2018,,Redovan samofinansirajuæi,Visoko
+16345,P-150,7,9,8. srpnja 2021.,3,2020/2021,5,False,18. srpnja 2018.,,13,Tehnièka,Bugojno,2017/2018,,Redovan samofinansirajuæi,Donji Vakuf
+16331,P-150,7,8,1. rujna 2022.,3,2021/2022,5,False,18. srpnja 2018.,M,4,Medicinska,Zenica,2017/2018,,DL,Zenica
+16334,P-150,7,10,3. veljaèe 2022.,3,2021/2022,5,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Jablanica
+16334,P-157,7,8,6. rujna 2022.,3,2021/2022,6,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Jablanica
+16371,P-157,7,6,7. rujna 2023.,3,2020/2021,6,False,18. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,,Redovan samofinansirajuæi,Zavidoviæi
+16349,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,13,Tehnièka,Bugojno,2017/2018,,DL,Bugojno
+16331,P-177,7,6,28. sijeènja 2021.,2,2019/2020,3,False,18. srpnja 2018.,M,4,Medicinska,Zenica,2017/2018,,DL,Zenica
+16358,P-177,7,6,12. rujna 2023.,2,2019/2020,3,False,18. srpnja 2018.,,18,Medresa,Zenica,2017/2018,,DL,Tuzla
+16342,P-177,7,9,1. rujna 2022.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,Vanredan,Ilida
+16370,P-177,7,7,21. rujna 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16352,P-177,7,8,18. veljaèe 2021.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16335,P-177,7,8,28. sijeènja 2021.,2,2019/2020,3,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16338,P-177,7,6,11. sijeènja 2023.,2,2019/2020,3,False,18. srpnja 2018.,M,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16374,P-177,7,6,18. veljaèe 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16345,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,,13,Tehnièka,Bugojno,2017/2018,,Redovan samofinansirajuæi,Donji Vakuf
+16379,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Visoko
+16344,P-177,7,6,14. rujna 2021.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Sjenica,2017/2018,,DL,Ilida
+16354,P-177,7,8,7. srpnja 2021.,2,2019/2020,3,False,18. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,ivinice
+16339,P-177,7,9,1. prosinca 2021.,2,2019/2020,3,False,18. srpnja 2018.,,2,Elektrotehnièka,Visoko,2017/2018,,Redovan samofinansirajuæi,Visoko
+16337,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Zenica,2017/2018,,DL,Zenica
+16348,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Gornji Vakuf - Uskoplje
+16371,P-177,7,6,18. veljaèe 2020.,2,2019/2020,3,False,18. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,,Redovan samofinansirajuæi,Zavidoviæi
+16463,P-177,7,6,2. studenog 2022.,2,2018/2019,3,False,20. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Èapljina
+16365,P-177,7,10,21. rujna 2020.,2,2018/2019,3,False,18. srpnja 2018.,,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16460,P-177,7,6,4. rujna 2020.,2,2018/2019,3,False,20. srpnja 2018.,M,23,Mjeovita srednja kola,Travnik,2017/2018,,Redovan samofinansirajuæi,Travnik
+16326,P-177,7,6,7. srpnja 2021.,2,2018/2019,3,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16320,P-175,7,7,29. lipnja 2019.,1,2018/2019,1,False,17. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,,DL,Mostar
+16321,P-175,7,7,24. kolovoza 2019.,1,2018/2019,1,False,17. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Ilida
+16322,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,17. srpnja 2018.,M,3,Mainska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16324,P-175,7,6,24. kolovoza 2019.,1,2018/2019,1,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16326,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16325,P-175,7,7,7. rujna 2019.,1,2018/2019,1,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16328,P-175,7,8,24. kolovoza 2019.,1,2018/2019,1,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16331,P-175,7,6,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,4,Medicinska,Zenica,2017/2018,,DL,Zenica
+16334,P-175,7,7,6. srpnja 2020.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Jablanica
+16335,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16337,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Zenica,2017/2018,,DL,Zenica
+16338,P-175,7,6,24. kolovoza 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16339,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,18. srpnja 2018.,,2,Elektrotehnièka,Visoko,2017/2018,,Redovan samofinansirajuæi,Visoko
+16342,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,Vanredan,Ilida
+16344,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Sjenica,2017/2018,,DL,Ilida
+16345,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,,13,Tehnièka,Bugojno,2017/2018,,Redovan samofinansirajuæi,Donji Vakuf
+16348,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Gornji Vakuf - Uskoplje
+16349,P-175,7,6,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,13,Tehnièka,Bugojno,2017/2018,,DL,Bugojno
+16353,P-175,7,6,6. srpnja 2020.,1,2018/2019,1,False,18. srpnja 2018.,,1,Gimnazija,Konjic,2017/2018,,DL,Jablanica
+16352,P-175,7,8,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16354,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,ivinice
+16357,P-175,7,10,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,13,Tehnièka,Gorade,2017/2018,,DL,Gorade
+16358,P-175,7,6,3. listopada 2019.,1,2018/2019,1,False,18. srpnja 2018.,,18,Medresa,Zenica,2017/2018,,DL,Tuzla
+16360,P-175,7,6,25. kolovoza 2020.,1,2018/2019,1,False,18. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,Tuzla
+16365,P-175,7,10,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16370,P-175,7,10,29. lipnja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16371,P-175,7,9,29. lipnja 2019.,1,2018/2019,1,False,18. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,,Redovan samofinansirajuæi,Zavidoviæi
+16374,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16379,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Visoko
+16383,P-175,7,7,24. kolovoza 2019.,1,2018/2019,1,False,19. srpnja 2018.,,4,Medicinska,Konjic,2017/2018,,DL,Mostar
+16384,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,2,Elektrotehnièka,Tuzla,2017/2018,,Redovan samofinansirajuæi,Tuzla
+16386,P-175,7,6,15. veljaèe 2020.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo-Novo Sarajevo,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16387,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16389,P-175,7,8,7. rujna 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Centar
+16403,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,Redovan samofinansirajuæi,Kalesija
+16405,P-175,7,6,8. rujna 2020.,1,2018/2019,1,False,19. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,Vanredan,ivinice
+16404,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16410,P-175,7,6,25. sijeènja 2020.,1,2018/2019,1,False,19. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Novi grad
+16421,P-175,7,6,6. srpnja 2020.,1,2018/2019,1,False,20. srpnja 2018.,,1,Gimnazija,Gorade,2017/2018,,DL,Gorade
+16424,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Visoko
+16428,P-175,7,6,3. listopada 2019.,1,2018/2019,1,False,20. srpnja 2018.,,2,Elektrotehnièka,Travnik,2017/2018,,Vanredan,Donji Vakuf
+16431,P-175,7,7,29. lipnja 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,18,Medresa,Zenica,2017/2018,,DL,Zenica
+16436,P-175,7,7,7. rujna 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,18,Medresa,Jajce,2017/2018,,DL,Jajce
+16439,P-175,7,8,9. veljaèe 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,1,Gimnazija,Velika Kladua,2017/2018,,Redovan samofinansirajuæi,Sanski Most
+16440,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Novi grad
+16442,P-175,7,9,7. rujna 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,23,Mjeovita srednja kola,Bihaæ,2017/2018,,DL,Bosanska Krupa
+16444,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Centar
+16450,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2017/2018,,DL,Gorade
+16461,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,8. rujna 2018.,M,23,Mjeovita srednja kola,Travnik,2017/2018,,DL,Travnik
+16460,P-175,7,9,9. veljaèe 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,23,Mjeovita srednja kola,Travnik,2017/2018,,Redovan samofinansirajuæi,Travnik
+16466,P-175,7,7,29. lipnja 2019.,1,2018/2019,1,False,8. rujna 2018.,,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16463,P-175,7,7,7. rujna 2019.,1,2018/2019,1,False,20. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Èapljina
+16469,P-175,7,6,15. veljaèe 2020.,1,2018/2019,1,False,20. srpnja 2018.,,1,Gimnazija,Bihaæ,2017/2018,,DL,Bosanska Krupa
+16472,P-175,7,6,15. veljaèe 2020.,1,2018/2019,1,False,20. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,Vanredan,Sarajevo-Novo Sarajevo
+16474,P-175,7,9,9. veljaèe 2019.,1,2018/2019,1,False,23. kolovoza 2018.,,1,Gimnazija,Tuzla,2017/2018,,Vanredan,Lukavac
+16476,P-175,7,6,8. rujna 2020.,1,2018/2019,1,False,20. srpnja 2018.,,13,Tehnièka,Sarajevo - Centar,2017/2018,,Vanredan,Sarajevo - Novi grad
+16481,P-175,7,7,9. veljaèe 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Bugojno
+16483,P-175,7,6,24. kolovoza 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Fojnica
+16488,P-175,7,7,2. rujna 2021.,1,2018/2019,1,False,20. srpnja 2018.,M,35,Ostalo,Vare,2017/2018,,DL,Ilija
+16491,P-175,7,6,4. srpnja 2022.,1,2018/2019,1,False,21. srpnja 2018.,,1,Gimnazija,Travnik,2017/2018,,DL,Travnik
+16496,P-175,7,6,29. lipnja 2019.,1,2018/2019,1,False,21. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Stari grad
+16499,P-175,7,6,6. srpnja 2020.,1,2018/2019,1,False,21. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16501,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,21. srpnja 2018.,,1,Gimnazija,Travnik,2017/2018,,Redovan samofinansirajuæi,Jajce
+16536,P-175,7,6,15. veljaèe 2020.,1,2018/2019,1,False,26. rujna 2018.,M,1,Gimnazija,Zenica,2017/2018,,DL,Zenica
+16510,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,24. rujna 2018.,,1,Gimnazija,Kakanj,2017/2018,,Redovan samofinansirajuæi,Kakanj
+16516,P-175,7,8,9. veljaèe 2019.,1,2018/2019,1,False,25. rujna 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Ilija
+16517,P-175,7,6,7. rujna 2019.,1,2018/2019,1,False,25. rujna 2018.,,1,Gimnazija,Konjic,2017/2018,,DL,Konjic
+16527,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Ilida
+16531,P-175,7,6,9. veljaèe 2019.,1,2018/2019,1,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Novi grad
+16533,P-175,7,7,9. veljaèe 2019.,1,2018/2019,1,False,4. listopada 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,Gradaèac
+16532,P-175,7,8,29. sijeènja 2022.,1,2018/2019,1,False,25. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Novi grad
+16533,P-176,7,6,15. rujna 2020.,1,2018/2019,2,False,4. listopada 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,Gradaèac
+16496,P-176,7,8,15. rujna 2020.,1,2018/2019,2,False,21. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Stari grad
+16403,P-176,7,8,24. lipnja 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,Redovan samofinansirajuæi,Kalesija
+16384,P-176,7,6,4. rujna 2019.,1,2018/2019,2,False,19. srpnja 2018.,M,2,Elektrotehnièka,Tuzla,2017/2018,,Redovan samofinansirajuæi,Tuzla
+16322,P-176,7,7,24. lipnja 2020.,1,2018/2019,2,False,17. srpnja 2018.,M,3,Mainska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16320,P-176,7,6,18. rujna 2019.,1,2018/2019,2,False,17. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,,DL,Mostar
+16483,P-176,7,6,25. lipnja 2021.,1,2018/2019,2,False,20. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Fojnica
+16476,P-176,7,8,20. rujna 2022.,1,2018/2019,2,False,20. srpnja 2018.,,13,Tehnièka,Sarajevo - Centar,2017/2018,,Vanredan,Sarajevo - Novi grad
+16460,P-176,7,6,4. srpnja 2019.,1,2018/2019,2,False,20. srpnja 2018.,M,23,Mjeovita srednja kola,Travnik,2017/2018,,Redovan samofinansirajuæi,Travnik
+16450,P-176,7,7,25. lipnja 2021.,1,2018/2019,2,False,20. srpnja 2018.,M,2,Elektrotehnièka,Gorade,2017/2018,,DL,Gorade
+16444,P-176,7,8,25. lipnja 2021.,1,2018/2019,2,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Centar
+16442,P-176,7,6,15. rujna 2020.,1,2018/2019,2,False,20. srpnja 2018.,M,23,Mjeovita srednja kola,Bihaæ,2017/2018,,DL,Bosanska Krupa
+16440,P-176,7,8,31. kolovoza 2020.,1,2018/2019,2,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Novi grad
+16436,P-176,7,8,6. rujna 2022.,1,2018/2019,2,False,20. srpnja 2018.,M,18,Medresa,Jajce,2017/2018,,DL,Jajce
+16431,P-176,7,6,16. srpnja 2021.,1,2018/2019,2,False,20. srpnja 2018.,M,18,Medresa,Zenica,2017/2018,,DL,Zenica
+16428,P-176,7,6,6. rujna 2022.,1,2018/2019,2,False,20. srpnja 2018.,,2,Elektrotehnièka,Travnik,2017/2018,,Vanredan,Donji Vakuf
+16379,P-176,7,6,4. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,,DL,Visoko
+16370,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16365,P-176,7,6,20. lipnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16360,P-176,7,7,20. rujna 2022.,1,2018/2019,2,False,18. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,Tuzla
+16358,P-176,7,7,9. rujna 2021.,1,2018/2019,2,False,18. srpnja 2018.,,18,Medresa,Zenica,2017/2018,,DL,Tuzla
+16357,P-176,7,9,15. rujna 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,13,Tehnièka,Gorade,2017/2018,,DL,Gorade
+16354,P-176,7,6,31. kolovoza 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,18,Medresa,Tuzla,2017/2018,,DL,ivinice
+16349,P-176,7,8,4. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,13,Tehnièka,Bugojno,2017/2018,,DL,Bugojno
+16348,P-176,7,6,4. srpnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,13,Tehnièka,Travnik,2017/2018,,DL,Gornji Vakuf - Uskoplje
+16345,P-176,7,7,4. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,,13,Tehnièka,Bugojno,2017/2018,,Redovan samofinansirajuæi,Donji Vakuf
+16339,P-176,7,7,15. rujna 2020.,1,2018/2019,2,False,18. srpnja 2018.,,2,Elektrotehnièka,Visoko,2017/2018,,Redovan samofinansirajuæi,Visoko
+16338,P-176,7,7,9. rujna 2021.,1,2018/2019,2,False,18. srpnja 2018.,M,6,Ekonomska,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16331,P-176,7,6,31. kolovoza 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,4,Medicinska,Zenica,2017/2018,,DL,Zenica
+16517,P-176,7,7,16. srpnja 2021.,1,2018/2019,2,False,25. rujna 2018.,,1,Gimnazija,Konjic,2017/2018,,DL,Konjic
+16510,P-176,7,8,4. srpnja 2019.,1,2018/2019,2,False,24. rujna 2018.,,1,Gimnazija,Kakanj,2017/2018,,Redovan samofinansirajuæi,Kakanj
+16501,P-176,7,8,31. kolovoza 2020.,1,2018/2019,2,False,21. srpnja 2018.,,1,Gimnazija,Travnik,2017/2018,,Redovan samofinansirajuæi,Jajce
+16499,P-176,7,6,17. srpnja 2023.,1,2018/2019,2,False,21. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16491,P-176,7,6,21. lipnja 2023.,1,2018/2019,2,False,21. srpnja 2018.,,1,Gimnazija,Travnik,2017/2018,,DL,Travnik
+16469,P-176,7,6,23. rujna 2021.,1,2018/2019,2,False,20. srpnja 2018.,,1,Gimnazija,Bihaæ,2017/2018,,DL,Bosanska Krupa
+16439,P-176,7,6,18. rujna 2019.,1,2018/2019,2,False,20. srpnja 2018.,M,1,Gimnazija,Velika Kladua,2017/2018,,Redovan samofinansirajuæi,Sanski Most
+16424,P-176,7,9,15. rujna 2020.,1,2018/2019,2,False,20. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Visoko
+16389,P-176,7,9,9. rujna 2021.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo - Centar
+16387,P-176,7,6,23. rujna 2021.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16386,P-176,7,8,9. rujna 2021.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Sarajevo-Novo Sarajevo,2017/2018,,DL,Sarajevo-Novo Sarajevo
+16371,P-176,7,7,4. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,,Redovan samofinansirajuæi,Zavidoviæi
+16344,P-176,7,7,15. rujna 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Sjenica,2017/2018,,DL,Ilida
+16342,P-176,7,6,15. rujna 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,,Vanredan,Ilida
+16337,P-176,7,6,18. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Zenica,2017/2018,,DL,Zenica
+16463,P-176,7,6,16. srpnja 2021.,1,2018/2019,2,False,20. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Èapljina
+16466,P-176,7,7,15. rujna 2020.,1,2018/2019,2,False,8. rujna 2018.,,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16404,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16374,P-176,7,8,4. srpnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16352,P-176,7,7,31. kolovoza 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16335,P-176,7,7,15. rujna 2020.,1,2018/2019,2,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16334,P-176,7,7,25. lipnja 2021.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,DL,Jablanica
+16328,P-176,7,7,6. rujna 2022.,1,2018/2019,2,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16325,P-176,7,6,19. srpnja 2022.,1,2018/2019,2,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,DL,Mostar
+16326,P-176,7,9,15. rujna 2020.,1,2018/2019,2,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16324,P-176,7,8,15. rujna 2020.,1,2018/2019,2,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,,Redovan samofinansirajuæi,Mostar
+16446,P-175,7,8,26. sijeènja 2019.,1,2018/2019,1,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,6. rujna 2022.,DL,Sarajevo - Novi grad
+16486,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,20. srpnja 2018.,,35,Ostalo,Sarajevo - Centar,2017/2018,22. rujna 2022.,Redovan samofinansirajuæi,Ilija
+16529,P-175,7,8,6. srpnja 2020.,1,2018/2019,1,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2016/2017,4. veljaèe 2023.,DL,Ilida
+16529,P-176,7,6,25. lipnja 2021.,1,2018/2019,2,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2016/2017,4. veljaèe 2023.,DL,Ilida
+16486,P-176,7,8,4. rujna 2019.,1,2018/2019,2,False,20. srpnja 2018.,,35,Ostalo,Sarajevo - Centar,2017/2018,22. rujna 2022.,Redovan samofinansirajuæi,Ilija
+16446,P-176,7,7,4. rujna 2019.,1,2018/2019,2,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,6. rujna 2022.,DL,Sarajevo - Novi grad
+16446,P-177,7,8,21. sijeènja 2020.,2,2019/2020,3,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,6. rujna 2022.,DL,Sarajevo - Novi grad
+16486,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,20. srpnja 2018.,,35,Ostalo,Sarajevo - Centar,2017/2018,22. rujna 2022.,Redovan samofinansirajuæi,Ilija
+16529,P-177,7,10,14. rujna 2021.,2,2020/2021,3,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2016/2017,4. veljaèe 2023.,DL,Ilida
+16486,P-150,7,9,17. rujna 2021.,3,2020/2021,5,False,20. srpnja 2018.,,35,Ostalo,Sarajevo - Centar,2017/2018,22. rujna 2022.,Redovan samofinansirajuæi,Ilija
+16446,P-150,7,8,17. rujna 2021.,3,2020/2021,5,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,6. rujna 2022.,DL,Sarajevo - Novi grad
+16529,P-150,7,8,1. rujna 2022.,3,2021/2022,5,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2016/2017,4. veljaèe 2023.,DL,Ilida
+16529,P-157,7,7,11. sijeènja 2023.,3,2021/2022,6,False,26. rujna 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2016/2017,4. veljaèe 2023.,DL,Ilida
+16446,P-157,7,8,6. rujna 2022.,3,2020/2021,6,False,20. srpnja 2018.,M,2,Elektrotehnièka,Sarajevo - Centar,2017/2018,6. rujna 2022.,DL,Sarajevo - Novi grad
+16486,P-157,7,7,22. rujna 2022.,3,2020/2021,6,False,20. srpnja 2018.,,35,Ostalo,Sarajevo - Centar,2017/2018,22. rujna 2022.,Redovan samofinansirajuæi,Ilija
+16332,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,30. lipnja 2022.,DL,Mostar
+17598,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,23. studenog 2018.,M,6,Ekonomska,Bugojno,2007/08,4. veljaèe 2021.,DL,Vogoæa
+17598,P-176,7,8,1. listopada 2018.,1,2018/2019,2,True,23. studenog 2018.,M,6,Ekonomska,Bugojno,2007/08,4. veljaèe 2021.,DL,Vogoæa
+16332,P-176,7,6,18. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,30. lipnja 2022.,DL,Mostar
+17598,P-177,7,7,1. listopada 2018.,2,2018/2019,3,True,23. studenog 2018.,M,6,Ekonomska,Bugojno,2007/08,4. veljaèe 2021.,DL,Vogoæa
+16332,P-177,7,9,4. rujna 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,30. lipnja 2022.,DL,Mostar
+17598,P-150,7,7,1. listopada 2018.,3,2018/2019,5,True,23. studenog 2018.,M,6,Ekonomska,Bugojno,2007/08,4. veljaèe 2021.,DL,Vogoæa
+16332,P-150,7,8,8. srpnja 2021.,3,2020/2021,5,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,30. lipnja 2022.,DL,Mostar
+16332,P-157,7,8,30. lipnja 2022.,3,2020/2021,6,False,18. srpnja 2018.,M,2,Elektrotehnièka,Mostar,2017/2018,30. lipnja 2022.,DL,Mostar
+17598,P-157,6,7,1. listopada 2018.,3,2018/2019,6,True,23. studenog 2018.,M,6,Ekonomska,Bugojno,2007/08,4. veljaèe 2021.,DL,Vogoæa
+16579,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,8. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2010/2011,6. rujna 2021.,DL,Sarajevo - Novi grad
+17592,P-175,7,7,1. listopada 2018.,1,2018/2019,1,True,19. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2013/14,3. travnja 2021.,DL,Hadiæi
+16519,P-176,7,8,15. rujna 2020.,1,2018/2019,2,False,25. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2015/2016,19. srpnja 2022.,DL,Sarajevo - Novi grad
+17592,P-176,7,7,1. listopada 2018.,1,2018/2019,2,True,19. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2013/14,3. travnja 2021.,DL,Hadiæi
+16579,P-176,7,6,1. listopada 2018.,1,2018/2019,2,True,8. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2010/2011,6. rujna 2021.,DL,Sarajevo - Novi grad
+16579,P-177,7,7,1. listopada 2018.,2,2018/2019,3,True,8. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2010/2011,6. rujna 2021.,DL,Sarajevo - Novi grad
+17592,P-177,7,6,1. listopada 2018.,2,2018/2019,3,True,19. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2013/14,3. travnja 2021.,DL,Hadiæi
+16519,P-177,7,9,14. rujna 2021.,2,2019/2020,3,False,25. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2015/2016,19. srpnja 2022.,DL,Sarajevo - Novi grad
+17592,P-150,7,8,1. listopada 2018.,3,2018/2019,5,True,19. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2013/14,3. travnja 2021.,DL,Hadiæi
+16579,P-150,7,8,4. veljaèe 2021.,3,2018/2019,5,False,8. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2010/2011,6. rujna 2021.,DL,Sarajevo - Novi grad
+16519,P-150,7,8,3. veljaèe 2022.,3,2020/2021,5,False,25. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2015/2016,19. srpnja 2022.,DL,Sarajevo - Novi grad
+16519,P-157,7,7,19. srpnja 2022.,3,2020/2021,6,False,25. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2015/2016,19. srpnja 2022.,DL,Sarajevo - Novi grad
+16579,P-157,6,6,30. lipnja 2021.,3,2018/2019,6,False,8. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2010/2011,6. rujna 2021.,DL,Sarajevo - Novi grad
+17592,P-157,6,8,19. prosinca 2019.,3,2018/2019,6,False,19. studenog 2018.,M,1,Gimnazija,Sarajevo - Centar,2013/14,3. travnja 2021.,DL,Hadiæi
+16385,P-175,7,8,9. veljaèe 2019.,1,2018/2019,1,False,5. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,30. rujna 2021.,DL,Kakanj
+16392,P-175,7,10,24. kolovoza 2019.,1,2018/2019,1,False,5. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16459,P-175,7,9,9. veljaèe 2019.,1,2018/2019,1,False,23. kolovoza 2018.,M,1,Gimnazija,Zenica,2017/18,18. veljaèe 2022.,DL,Zenica
+16459,P-176,7,6,24. lipnja 2020.,1,2018/2019,2,False,23. kolovoza 2018.,M,1,Gimnazija,Zenica,2017/18,18. veljaèe 2022.,DL,Zenica
+16392,P-176,7,9,24. lipnja 2020.,1,2018/2019,2,False,5. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16385,P-176,7,9,4. rujna 2019.,1,2018/2019,2,False,5. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,30. rujna 2021.,DL,Kakanj
+16385,P-177,7,7,21. sijeènja 2020.,2,2019/2020,3,False,5. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,30. rujna 2021.,DL,Kakanj
+16392,P-177,7,7,28. sijeènja 2021.,2,2019/2020,3,False,5. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16459,P-177,7,7,18. veljaèe 2021.,2,2019/2020,3,False,23. kolovoza 2018.,M,1,Gimnazija,Zenica,2017/18,18. veljaèe 2022.,DL,Zenica
+16392,P-150,7,8,24. veljaèe 2022.,3,2020/2021,5,False,5. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16459,P-150,7,8,3. veljaèe 2022.,3,2020/2021,5,False,23. kolovoza 2018.,M,1,Gimnazija,Zenica,2017/18,18. veljaèe 2022.,DL,Zenica
+16385,P-150,7,10,25. veljaèe 2021.,3,2020/2021,5,False,5. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,30. rujna 2021.,DL,Kakanj
+16385,P-157,7,6,24. rujna 2021.,3,2020/2021,6,False,5. rujna 2018.,M,1,Gimnazija,Zenica,2017/18,30. rujna 2021.,DL,Kakanj
+16459,P-157,7,7,17. veljaèe 2022.,3,2020/2021,6,False,23. kolovoza 2018.,M,1,Gimnazija,Zenica,2017/18,18. veljaèe 2022.,DL,Zenica
+16392,P-157,7,8,6. rujna 2022.,3,2020/2021,6,False,5. rujna 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16394,P-175,7,10,7. rujna 2019.,1,2018/2019,1,False,19. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16402,P-175,7,10,9. veljaèe 2019.,1,2018/2019,1,False,19. srpnja 2018.,M,1,Gimnazija,Travnik,2017/18,6. rujna 2022.,Redovan samofinansirajuæi,Gornji Vakuf - Uskoplje
+16425,P-175,7,7,26. sijeènja 2019.,1,2018/2019,1,False,19. srpnja 2018.,,1,Gimnazija,Gorade,2017/18,22. studenog 2021.,DL,Gorade
+16425,P-176,7,9,4. rujna 2019.,1,2018/2019,2,False,19. srpnja 2018.,,1,Gimnazija,Gorade,2017/18,22. studenog 2021.,DL,Gorade
+16402,P-176,7,9,4. rujna 2019.,1,2018/2019,2,False,19. srpnja 2018.,M,1,Gimnazija,Travnik,2017/18,6. rujna 2022.,Redovan samofinansirajuæi,Gornji Vakuf - Uskoplje
+16394,P-176,7,6,15. srpnja 2020.,1,2018/2019,2,False,19. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16394,P-177,7,7,28. sijeènja 2021.,2,2019/2020,3,False,19. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16402,P-177,7,7,21. sijeènja 2020.,2,2019/2020,3,False,19. srpnja 2018.,M,1,Gimnazija,Travnik,2017/18,6. rujna 2022.,Redovan samofinansirajuæi,Gornji Vakuf - Uskoplje
+16425,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,19. srpnja 2018.,,1,Gimnazija,Gorade,2017/18,22. studenog 2021.,DL,Gorade
+16394,P-150,7,8,24. veljaèe 2022.,3,2020/2021,5,False,19. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16425,P-150,7,9,25. veljaèe 2021.,3,2020/2021,5,False,19. srpnja 2018.,,1,Gimnazija,Gorade,2017/18,22. studenog 2021.,DL,Gorade
+16402,P-150,7,10,17. rujna 2021.,3,2020/2021,5,False,19. srpnja 2018.,M,1,Gimnazija,Travnik,2017/18,6. rujna 2022.,Redovan samofinansirajuæi,Gornji Vakuf - Uskoplje
+16402,P-157,7,8,6. rujna 2022.,3,2020/2021,6,False,19. srpnja 2018.,M,1,Gimnazija,Travnik,2017/18,6. rujna 2022.,Redovan samofinansirajuæi,Gornji Vakuf - Uskoplje
+16425,P-157,7,8,10. rujna 2021.,3,2020/2021,6,False,19. srpnja 2018.,,1,Gimnazija,Gorade,2017/18,22. studenog 2021.,DL,Gorade
+16394,P-157,7,7,6. rujna 2022.,3,2020/2021,6,False,19. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/18,6. rujna 2022.,DL,Vogoæa
+16417,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,20. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,27. sijeènja 2022.,DL,Sarajevo - Novi grad
+16417,P-176,7,6,20. lipnja 2019.,1,2018/2019,2,False,20. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,27. sijeènja 2022.,DL,Sarajevo - Novi grad
+16417,P-177,7,9,21. sijeènja 2020.,2,2019/2020,3,False,20. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,27. sijeènja 2022.,DL,Sarajevo - Novi grad
+16417,P-150,7,9,17. rujna 2021.,3,2020/2021,5,False,20. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,27. sijeènja 2022.,DL,Sarajevo - Novi grad
+16417,P-157,7,9,27. sijeènja 2022.,3,2020/2021,6,False,20. srpnja 2018.,,1,Gimnazija,Sarajevo - Centar,2017/2018,27. sijeènja 2022.,DL,Sarajevo - Novi grad
+16419,P-175,7,9,29. lipnja 2019.,1,2018/2019,1,False,20. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,14. studenog 2022.,DL,Zavidoviæi
+16535,P-175,7,8,29. lipnja 2019.,1,2018/2019,1,False,24. rujna 2018.,M,1,Gimnazija,Zenica,2017/2018,6. rujna 2022.,DL,Kakanj
+16535,P-176,7,6,3. listopada 2019.,1,2018/2019,2,False,24. rujna 2018.,M,1,Gimnazija,Zenica,2017/2018,6. rujna 2022.,DL,Kakanj
+16419,P-176,7,7,4. rujna 2019.,1,2018/2019,2,False,20. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,14. studenog 2022.,DL,Zavidoviæi
+16419,P-177,7,6,18. veljaèe 2020.,2,2019/2020,3,False,20. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,14. studenog 2022.,DL,Zavidoviæi
+16535,P-177,7,6,21. sijeènja 2020.,2,2019/2020,3,False,24. rujna 2018.,M,1,Gimnazija,Zenica,2017/2018,6. rujna 2022.,DL,Kakanj
+16419,P-150,7,9,25. veljaèe 2021.,3,2020/2021,5,False,20. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,14. studenog 2022.,DL,Zavidoviæi
+16535,P-150,7,8,8. srpnja 2021.,3,2020/2021,5,False,24. rujna 2018.,M,1,Gimnazija,Zenica,2017/2018,6. rujna 2022.,DL,Kakanj
+16535,P-157,7,7,6. rujna 2022.,3,2020/2021,6,False,24. rujna 2018.,M,1,Gimnazija,Zenica,2017/2018,6. rujna 2022.,DL,Kakanj
+16419,P-157,7,7,19. srpnja 2022.,3,2020/2021,6,False,20. srpnja 2018.,,1,Gimnazija,Zenica,2017/2018,14. studenog 2022.,DL,Zavidoviæi
+16333,P-175,7,9,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Cazin,2017/2018,30. lipnja 2022.,Redovan samofinansirajuæi,Cazin
+16362,P-175,7,9,9. veljaèe 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Visoko,2017/2018,17. veljaèe 2022.,DL,Visoko
+16364,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,30. lipnja 2022.,DL,Visoko
+16368,P-175,7,7,29. lipnja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Travnik,2017/2018,21. rujna 2023.,DL,Travnik
+16368,P-176,7,6,31. kolovoza 2020.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Travnik,2017/2018,21. rujna 2023.,DL,Travnik
+16364,P-176,7,8,20. lipnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,30. lipnja 2022.,DL,Visoko
+16362,P-176,7,6,4. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Visoko,2017/2018,17. veljaèe 2022.,DL,Visoko
+16333,P-176,7,8,20. lipnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Cazin,2017/2018,30. lipnja 2022.,Redovan samofinansirajuæi,Cazin
+16333,P-177,7,8,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Cazin,2017/2018,30. lipnja 2022.,Redovan samofinansirajuæi,Cazin
+16368,P-177,7,8,7. srpnja 2021.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Travnik,2017/2018,21. rujna 2023.,DL,Travnik
+16362,P-177,7,7,18. veljaèe 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Visoko,2017/2018,17. veljaèe 2022.,DL,Visoko
+16364,P-177,7,10,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,30. lipnja 2022.,DL,Visoko
+16333,P-150,7,10,30. prosinca 2021.,3,2020/2021,5,False,18. srpnja 2018.,M,1,Gimnazija,Cazin,2017/2018,30. lipnja 2022.,Redovan samofinansirajuæi,Cazin
+16364,P-150,7,8,30. prosinca 2021.,3,2020/2021,5,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,30. lipnja 2022.,DL,Visoko
+16362,P-150,7,7,30. prosinca 2021.,3,2020/2021,5,False,18. srpnja 2018.,M,1,Gimnazija,Visoko,2017/2018,17. veljaèe 2022.,DL,Visoko
+16368,P-150,7,9,23. rujna 2022.,3,2021/2022,5,True,18. srpnja 2018.,M,1,Gimnazija,Travnik,2017/2018,21. rujna 2023.,DL,Travnik
+16368,P-157,7,6,21. rujna 2023.,3,2021/2022,6,False,18. srpnja 2018.,M,1,Gimnazija,Travnik,2017/2018,21. rujna 2023.,DL,Travnik
+16362,P-157,7,8,17. veljaèe 2022.,3,2020/2021,6,False,18. srpnja 2018.,M,1,Gimnazija,Visoko,2017/2018,17. veljaèe 2022.,DL,Visoko
+16364,P-157,7,10,30. lipnja 2022.,3,2020/2021,6,False,18. srpnja 2018.,M,1,Gimnazija,Sarajevo - Centar,2017/2018,30. lipnja 2022.,DL,Visoko
+16333,P-157,7,10,30. lipnja 2022.,3,2020/2021,6,False,18. srpnja 2018.,M,1,Gimnazija,Cazin,2017/2018,30. lipnja 2022.,Redovan samofinansirajuæi,Cazin
+16323,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16327,P-175,7,7,29. lipnja 2019.,1,2018/2019,1,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,11. svibnja 2023.,DL,Mostar
+16329,P-175,7,10,9. veljaèe 2019.,1,2018/2019,1,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,10. rujna 2022.,DL,Mostar
+16329,P-176,7,6,4. rujna 2019.,1,2018/2019,2,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,10. rujna 2022.,DL,Mostar
+16327,P-176,7,7,31. kolovoza 2020.,1,2018/2019,2,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,11. svibnja 2023.,DL,Mostar
+16323,P-176,7,7,4. rujna 2019.,1,2018/2019,2,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16327,P-177,7,6,28. sijeènja 2021.,2,2019/2020,3,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,11. svibnja 2023.,DL,Mostar
+16329,P-177,7,6,9. srpnja 2020.,2,2019/2020,3,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,10. rujna 2022.,DL,Mostar
+16323,P-177,7,8,21. sijeènja 2020.,2,2019/2020,3,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16329,P-150,7,8,17. rujna 2021.,3,2020/2021,5,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,10. rujna 2022.,DL,Mostar
+16327,P-150,7,9,24. veljaèe 2022.,3,2020/2021,5,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,11. svibnja 2023.,DL,Mostar
+16323,P-150,7,10,25. veljaèe 2021.,3,2020/2021,5,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16323,P-157,7,7,17. veljaèe 2022.,3,2020/2021,6,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16327,P-157,7,8,30. sijeènja 2023.,3,2020/2021,6,False,17. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,11. svibnja 2023.,DL,Mostar
+16329,P-157,7,7,6. rujna 2022.,3,2020/2021,6,False,17. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,10. rujna 2022.,DL,Mostar
+16336,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16341,P-175,7,10,26. sijeènja 2019.,1,2018/2019,1,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,13. srpnja 2023.,Redovan samofinansirajuæi,Mostar
+16341,P-176,7,7,4. rujna 2019.,1,2018/2019,2,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,13. srpnja 2023.,Redovan samofinansirajuæi,Mostar
+16336,P-176,7,10,4. srpnja 2019.,1,2018/2019,2,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16341,P-177,7,8,21. sijeènja 2020.,2,2019/2020,3,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,13. srpnja 2023.,Redovan samofinansirajuæi,Mostar
+16336,P-177,7,6,18. veljaèe 2020.,2,2019/2020,3,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16336,P-150,7,9,8. srpnja 2021.,3,2020/2021,5,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
+16341,P-150,7,9,25. veljaèe 2021.,3,2020/2021,5,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,13. srpnja 2023.,Redovan samofinansirajuæi,Mostar
+16341,P-157,7,7,13. srpnja 2023.,3,2020/2021,6,False,18. srpnja 2018.,M,1,Gimnazija,Mostar,2017/2018,13. srpnja 2023.,Redovan samofinansirajuæi,Mostar
+16336,P-157,7,8,17. veljaèe 2022.,3,2020/2021,6,False,18. srpnja 2018.,,1,Gimnazija,Mostar,2017/2018,17. veljaèe 2022.,Redovan samofinansirajuæi,Mostar
