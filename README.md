@@ -24,6 +24,11 @@ P-176 Programiranje II
 P-177 Programiranje III
 P-150 Razvoj softvera I
 P-157 Razvoj softvera II
+p-219 Matematika I
+p-221 Matematika II
+p-226 Matematika III
+p-235 Umjetna inteligencija
+p-240 Mašinsko učenje
 
 Matematike i ai ml
 

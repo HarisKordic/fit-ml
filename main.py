@@ -57,6 +57,6 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 # Predict the ECTS class for a new subject
-new_subject = [[6, 6, 6*6]]  # Ocjena = 6, BrojKredita = 10
+new_subject = [[6, 9, 6*9]]  # Ocjena = 6, BrojKredita = 10
 predicted_class = clf.predict(new_subject)[0]
 print("\nPredicted ECTS Class for the new subject:", predicted_class)
